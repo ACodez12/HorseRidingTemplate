@@ -1,0 +1,8 @@
+HorseRidingTemplate/
+├── index.html
+├── styles.css
+└── images/
+    ├── pic1.jpg
+    ├── pic2.jpg
+    ├── pic3.jpg
+    └── pic4.jpg
